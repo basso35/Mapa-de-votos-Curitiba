@@ -9,4 +9,6 @@ Para melhor leitura do mapa, foi utilizada uma escala de cores que favorece o co
 
 Por favor, não hesite em contatar se tiver alguma dúvida ou sugestão.
 
+Acesse o mapa pelo link: https://basso35.github.io/Mapa-de-votos-Curitiba/
+
 Fonte: https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna, https://forest-gis.com/shapefile-bairros-das-cidades-brasileiras/.
