@@ -7,4 +7,6 @@ Os dados permitem que os usuários explorem os resultados da votação por bairr
 
 Por favor, e não hesite em contatar se tiver alguma dúvida ou sugestão.
 
+Acesse o mapa:https://basso35.github.io/Mapa-de-votos-Curitiba/ 
+
 Fonte: https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna, https://forest-gis.com/shapefile-bairros-das-cidades-brasileiras/.
